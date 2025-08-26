@@ -26,7 +26,7 @@
 # 📌 Featured Projects  
 - [Construction Management System](https://github.com/harshita-dundale/Construction-Management-System)  
 - [Notes App](https://github.com/harshita-dundale/notes-app)  
-- [Event Management system]((https://github.com/harshita-dundale/Event-Management-System))  
+- [Event Management system](https://github.com/harshita-dundale/Event-Management-System)  
 - More coming soon 🚀  
 
 ---
